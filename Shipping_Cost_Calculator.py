@@ -1,4 +1,6 @@
 # Here is an update from SilentBeast-07
+# Here is a new update by SilentBeast-07
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
